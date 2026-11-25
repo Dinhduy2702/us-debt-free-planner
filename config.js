@@ -11,6 +11,7 @@ window.DEBTFREE_CONFIG = {
   ecosystem: {
     smartMoneyCompoundBase: "https://dinhduy2702.github.io/us-smart-money-calculators/",
     soloTaxUrl: "https://dinhduy2702.github.io/us-solotax-planner/",
+    propYieldUrl: "https://dinhduy2702.github.io/us-propyield-analyzer/",
     youtubeFinance: {
       label: "Watch US Debt Freedom Guides",
       url: "" // AGY 3 cap nhat link kenh YT Finance EN khi lap xong
